@@ -4,22 +4,22 @@ Conducted personal research with my partner Naoya Kumagai over the course of sev
 
 There are three main elements of this project: 
 
-1. **The Presentation** (best if veiwed first for an overview of the project) \n
-  a. Introducing the histroical background of CNNs
-  b. Their utility and abundance in the real world
-  c. Foward propogation of CNNs
-  d. Backpropogation of CNNs
-  e. Experiment and Results
+1. **The Presentation** (best if veiwed first for an overview of the project) <br/>
+  a. Introducing the histroical background of CNNs <br/>
+  b. Their utility and abundance in the real world <br/>
+  c. Foward propogation of CNNs <br/>
+  d. Backpropogation of CNNs <br/>
+  e. Experiment and Results <br/>
   
-2. **The Experiment**
-  a. Created a CNN model using keras on a colab notebook
-  b. Model trained 10 times using the the MNIST dataset 
-  c. Tested error of recognition using a 10,000 image training set
-  d. Modeled results with graphs
+2. **The Experiment** <br/>
+  a. Created a CNN model using keras on a colab notebook <br/>
+  b. Model trained 10 times using the the MNIST dataset <br/>
+  c. Tested error of recognition using a 10,000 image training set <br/>
+  d. Modeled results with graphs <br/>
   
-3. **The Reseach Report**
-  a. Abstract and Introduction of CNNs
-  b. Mathematical foundation of CNNs
-  c. Our experiment
-  d. Conclusion
+3. **The Reseach Report** <br/>
+  a. Abstract and Introduction of CNNs <br/>
+  b. Mathematical foundation of CNNs <br/>
+  c. Our experiment <br/>
+  d. Conclusion <br/>
  
