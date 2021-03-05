@@ -4,7 +4,7 @@ Conducted personal research with my partner Naoya Kumagai over the course of sev
 
 There are three main elements of this project: 
 
-1. **The Presentation** (best if veiwed first for an overview of the project)
+1. **The Presentation** (best if veiwed first for an overview of the project) \n
   a. Introducing the histroical background of CNNs
   b. Their utility and abundance in the real world
   c. Foward propogation of CNNs
