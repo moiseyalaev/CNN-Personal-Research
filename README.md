@@ -1,4 +1,4 @@
-# CNN-Personal-Research-
+# CNN-Personal-Research
 
 Conducted personal research with my partner Naoya Kumagai over the course of several months on Convolutional Neural Networks (CNNs). There are subclass of neural networks that are architected for the task of identifying and analyzing visual imagery. Our goal was to demenstrate a solid understanding of this variety of Neural Neworks both mathematically and practically using the MNIST dataset. Additonally, we created a final report to summarize our process which followed a machine learnig research paper model.
 
