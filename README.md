@@ -24,7 +24,8 @@ There are three main elements of this project:
   d. Conclusion <br/>
  
  
- ** Please view the extension of this research paper and experiment under my Computer Vision Repo
+ ** Please view the extension of this research paper and experiment under my Computer Vision Repo:  
+ https://github.com/moiseyalaev/Computer-Vision-Projects
  
  Thanks!
 
